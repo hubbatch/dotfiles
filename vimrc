@@ -1,4 +1,1 @@
-set nu
-set nrformats-=octal
-set shiftwidth=2
-set autoindent
+set nu nrformats-=octal shiftwidth=2 autoindent expandtab
