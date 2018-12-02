@@ -1,3 +1,3 @@
 # rc
 
-Things I like to have in my rcfiles.
+Some customizations I can't live without.
