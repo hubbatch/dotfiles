@@ -1,3 +1,7 @@
 # rc
 
-Some customizations I can't live without.
+oh my zsh
+https://github.com/robbyrussell/oh-my-zsh
+
+fzf
+https://github.com/junegunn/fzf
