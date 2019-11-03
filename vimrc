@@ -1,2 +1,4 @@
-set nu nrformats-=octal shiftwidth=2 autoindent expandtab
-:nnoremap <C-s> :w<cr>
+set nu 
+set shiftwidth=2 
+set autoindent 
+set expandtab

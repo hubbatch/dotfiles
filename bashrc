@@ -5,6 +5,10 @@ stty -ixon
 export VISUAL=vim
 export EDITOR=vim
 
+#History size
+HISTSIZE=999999999
+SAVEHIST=$HISTSIZE
+
 #Sync history across terminals. (Upon pressing enter)
 export HISTCONTROL=ignoredups:erasedup
 shopt -s histappend
